@@ -35,4 +35,3 @@ withManagedObjectContext:(NSManagedObjectContext *)moc;
 + (NSFetchRequest *)fetchRequestWithManagedObjectContext:(NSManagedObjectContext *)moc;
 
 @end
-
